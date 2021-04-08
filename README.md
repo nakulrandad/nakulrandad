@@ -43,6 +43,6 @@ I love to explore new technologies and leverage them to solve real-life problems
 </div>
 
 #### PS
-<span color="red">[Do not click!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)</span>
+<span color="red">[**Do not click!**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)</span>
 
 <!-- flag{How_bored_or_curious_does_one_need_to_be_to_actually_read_this_README} -->
