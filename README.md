@@ -1,6 +1,6 @@
-### Hi, I am "Nakul Randad". 👋
+## Hi, I am "Nakul Randad". 👋
 
-#### Glad to see you here! 🤩
+### Glad to see you here! 🤩
 
 <p>
 
@@ -19,7 +19,7 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 - 🔭 I’m currently working on optimization problems.
 
-- :guitar: I’m into music.
+- 🎸 I’m into music.
 
 - 💬 Ask me anything 🤓
 
@@ -29,9 +29,10 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 - 📫 To know more about me: [Click here!](https://nakulrandad.github.io/) 
 
-### To connect with me
+## To connect with me
 <div>
- [<img align="left" alt="Nakul Randad | LinkedIn" width="22px" src="https://github.com/nakulrandad/nakulrandad/blob/master/assets/linkedin.svg"/>](https://linkedin.com/in/nakulrandad/)
+ 
+ [<img align="left" alt="Nakul Randad | LinkedIn" width="22px" src="https://github.com/nakulrandad/nakulrandad/blob/master/assets/linkedin.svg" />](https://linkedin.com/in/nakulrandad/)
 
  [<img align="left" alt="Nakul Randad | Email" width="22px" src="https://github.com/nakulrandad/nakulrandad/blob/master/assets/gmail.svg" />](mailto:nakulrandad@gmail.com)
 
@@ -40,12 +41,15 @@ I love to explore new technologies and leverage them to solve real-life problems
  [<img align="left" alt="Nakul Randad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/nakulr007)
 
  [<img align="left" alt="Nakul Randad | Website" width="22px" src="https://github.com/nakulrandad/nakulrandad/blob/master/assets/site.svg" />](https://nakulrandad.github.io/)
+
 </div>
 
 <br>
 
-#### PS:
-<span color="red">**Do not click!**</span>  &nbsp;  &nbsp;
+---
+
+### PS:
+**Do not click!**
 
 [<img alt="GIF" src="https://github.com/nakulrandad/nakulrandad/blob/master/assets/do_not_press.gif" width="100px" />](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
