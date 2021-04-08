@@ -23,7 +23,7 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 - 📫 To know more about me: [Click here!](https://nakulrandad.github.io/) 
 
-![nakul's github stats](https://github-readme-stats.vercel.app/api?username=nakulrandad&show_icons=true&hide_border=false)
+![nakul's github stats](https://github-readme-stats.vercel.app/api?username=nakulrandad&show_icons=true&hide_border=false&count_private=true)
 
 ### To connect with me
 <div>
