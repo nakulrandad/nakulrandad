@@ -1,11 +1,6 @@
-## Hi, I am "Nakul Randad". 👋
+### Hi, I am "Nakul Randad". 👋
 
-### Glad to see you here! 🤩
-
-<p>
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/nakulrandad)
- &nbsp;
+#### Glad to see you here! 🤩
 
 ---
 <div style="text-align: justify"> 
@@ -29,7 +24,7 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 - 📫 To know more about me: [Click here!](https://nakulrandad.github.io/) 
 
-## To connect with me
+### To connect with me
 <div>
  
  [<img align="left" alt="Nakul Randad | LinkedIn" width="22px" src="https://github.com/nakulrandad/nakulrandad/blob/master/assets/linkedin.svg" />](https://linkedin.com/in/nakulrandad/)
@@ -48,8 +43,7 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 ---
 
-### PS:
-**Do not click!**
+#### PS: **Do not click!**
 
 [<img alt="GIF" src="https://github.com/nakulrandad/nakulrandad/blob/master/assets/do_not_press.gif" width="100px" />](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
