@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @nakulrandad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-nakulrandad/nakulrandad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ### Hi I am "Nakul Randad". 👋
 
 #### Glad to see you here! 🤩
@@ -20,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 ---
 <div style="text-align: justify"> 
 
-I'm a senior undergraduate pursuing  in Computer Science 🎓 from Indian Institute of Technology, Bombay 🏛.
+I'm a senior undergraduate at Indian Institute of Technology, Bombay 🏛 with majors in Aerospace Engineering :rocket:.
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
 I love to explore new technologies and leverage them to solve real-life problems ✨.
 </div>
