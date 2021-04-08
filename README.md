@@ -4,7 +4,7 @@
 
 <div style="text-align: justify"> 
 
-I'm a senior undergraduate at Indian Institute of Technology, Bombay 🏛 with majors in Aerospace Engineering :rocket:.
+I'm a senior undergraduate at Indian Institute of Technology, Bombay 🏛 with major in Aerospace Engineering 🚀 and minor in Systems & Control Engineering 🤖.
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
 I love to explore new technologies and leverage them to solve real-life problems ✨.
 </div>
