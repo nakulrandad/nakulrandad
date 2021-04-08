@@ -39,7 +39,7 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 [<img align="left" alt="Nakul Randad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/nakulr007)
 
-<br>
+<p>
 ---
 
 #### PS
