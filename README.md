@@ -42,6 +42,8 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 </div>
 
+<p>
+
 #### PS
 [Do not click!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
