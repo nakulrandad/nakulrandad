@@ -2,7 +2,6 @@
 
 #### Glad to see you here! 🤩
 
----
 <div style="text-align: justify"> 
 
 I'm a senior undergraduate at Indian Institute of Technology, Bombay 🏛 with majors in Aerospace Engineering :rocket:.
