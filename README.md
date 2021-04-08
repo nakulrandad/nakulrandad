@@ -17,7 +17,7 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I’m currently working on Optimization Problems.
+- 🔭 I’m currently working on optimization problems.
 
 - :guitar: I’m into music.
 
@@ -41,9 +41,8 @@ I love to explore new technologies and leverage them to solve real-life problems
  [<img align="left" alt="Nakul Randad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/nakulr007)
 
 </div>
-&nbsp;
----
 
 #### PS
-<font color="red">[Do not click!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)</font>
+[Do not click!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 <!-- flag{How_bored_or_curious_does_one_need_to_be_to_actually_read_this_README} -->
