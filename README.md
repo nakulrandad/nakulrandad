@@ -29,7 +29,7 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 - 📫 To know more about me: [Click here!](https://nakulrandad.github.io/) [<img align="left" alt="Nakul Randad | Website" width="22px" src="https://github.com/nakulrandad/nakulrandad/blob/master/assets/site.svg" />](https://nakulrandad.github.io/)
 
-### To connect with me:
+### To connect with me
 <div>
  
  [<img align="left" alt="Nakul Randad | LinkedIn" width="22px" src="https://github.com/nakulrandad/nakulrandad/blob/master/assets/linkedin.svg"/>](https://linkedin.com/in/nakulrandad/)
@@ -42,7 +42,9 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 </div>
 
-#### PS
+<br>
+
+#### PS:
 <span color="red">[**Do not click!**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)</span>
 
 <!-- flag{How_bored_or_curious_does_one_need_to_be_to_actually_read_this_README} -->
