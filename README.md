@@ -1,6 +1,6 @@
-### Hi, I am "Nakul Randad". 👋
+### Hey, its "Nakul" here. 👋
 
-#### Glad to see you here! 🤩
+#### Glad to see you! 🤩
 
 <div style="text-align: justify"> 
 
