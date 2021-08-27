@@ -13,7 +13,7 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 - 🔭 I’m currently working on trajectory optimization problems.
 
-- 🎸 I’m into music. I play Guitar, Ukelele...
+- 🎸 I’m into music. I play Guitar, Ukulele...
 
 - 💬 Ask me anything (I'll definitely have something to say🤓).
 
