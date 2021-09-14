@@ -5,21 +5,21 @@
 <div style="text-align: justify"> 
 
 I'm a senior undergraduate at Indian Institute of Technology, Bombay 🏛 with major in Aerospace Engineering 🚀 and minor in Systems & Control Engineering 🤖.
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
+I'm a passionate learner who's always willing to learn and work across domains 💡.
 I love to explore new technologies and leverage them to solve real-life problems ✨.
 </div>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I’m currently working on trajectory optimization problems.
+- 🔭 I’m currently working on trajectory optimization problems
 
 - 🎸 I’m into music. I play Guitar, Ukulele...
 
-- 💬 Ask me anything (I'll definitely have something to say🤓).
+- 💬 Ask me anything (I'll definitely have something to say🤓)
 
-- 🥅 2021 Goals: Travel and explore.
+- 🥅 2021 Goals: Travel and explore
 
-- ⚡ Fun fact: The odds of getting a royal flush are exactly 1 in 649,740.
+- ⚡ Fun fact: The odds of getting a royal flush are exactly 1 in 649,740
 
 - 📫 To know more about me: [Click here!](https://nakulrandad.github.io/) 
 
