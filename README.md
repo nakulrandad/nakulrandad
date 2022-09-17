@@ -1,17 +1,17 @@
 ### Hey, its "Nakul" here. 👋
 
-#### Glad to see you! 🤩 <img align="right" src="https://komarev.com/ghpvc/?username=nakulrandad&style=plastic&color=blueviolet" alt=profile_views/>
+#### Glad to see you! 🤩
 
 <div style="text-align: justify"> 
 
-I'm a senior undergraduate at Indian Institute of Technology, Bombay 🏛 with major in Aerospace Engineering 🚀 and minor in Systems & Control Engineering 🤖.
+I like quant finance and applied maths. I did my undergrad at Indian Institute of Technology Bombay 🏛 with major in Aerospace Engineering 🚀 and minor in Systems & Control Engineering 🤖.
 I'm a passionate learner who's always willing to learn and work across multiple domains 💡.
 I love to explore new technologies and leverage them to solve real-life problems ✨.
 </div>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I’m currently working on trajectory optimization problems
+- 🔭 I’m currently working as a Strat at GS
 
 - 🎸 I’m into music. I play Guitar, Ukulele...
 
