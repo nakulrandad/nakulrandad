@@ -11,13 +11,13 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I’m currently working as a Strat at GS
+- 🔭 I’m currently working as a strategist at Goldman Sachs
 
 - 🎸 I’m into music. I play Guitar, Ukulele...
 
 - 💬 Ask me anything (I'll definitely have something to say🤓)
 
-- 🥅 2022 Goals: Travel and explore
+- 🥅 2023 Goals: Travel and explore
 
 - ⚡ Fun fact: The odds of getting a royal flush are exactly 1 in 649,740
 
@@ -34,7 +34,7 @@ I love to explore new technologies and leverage them to solve real-life problems
 
  [<img align="left" alt="Nakul Randad | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>](https://facebook.com/nakulrandad)
 
- [<img align="left" alt="Nakul Randad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/nakulr007)
+ [<img align="left" alt="Nakul Randad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/nakulrandad)
 
  [<img align="left" alt="Nakul Randad | Website" width="22px" src="https://github.com/nakulrandad/nakulrandad/blob/master/assets/site.svg" />](https://nakulrandad.github.io/)
 
