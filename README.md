@@ -1,10 +1,10 @@
-### Hey, its "Nakul" here. 👋
+### Hey, it's "Nakul" here. 👋
 
 #### Glad to see you! 🤩
 
 <div style="text-align: justify"> 
 
-I like quant finance and applied maths. I did my undergrad at Indian Institute of Technology Bombay 🏛 with major in Aerospace Engineering 🚀 and minor in Systems & Control Engineering 🤖.
+I like quant finance and applied maths. I did my undergrad at the Indian Institute of Technology Bombay 🏛 with a major in Aerospace Engineering 🚀 and a minor in Systems & Control Engineering 🤖.
 I'm a passionate learner who's always willing to learn and work across multiple domains 💡.
 I love to explore new technologies and leverage them to solve real-life problems ✨.
 </div>
@@ -21,7 +21,7 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 - ⚡ Fun fact: The odds of getting a royal flush are exactly 1 in 649,740
 
-- 📫 To know more about me: [Click here!](https://nakulrandad.github.io/) 
+- 📫 To know more about me: [Click here!](https://nakulrandad.com/) 
 
 ![nakul's github stats](https://github-readme-stats.vercel.app/api?username=nakulrandad&show_icons=true&hide_border=false&count_private=true)
 
@@ -36,7 +36,7 @@ I love to explore new technologies and leverage them to solve real-life problems
 
  [<img align="left" alt="Nakul Randad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/nakulrandad)
 
- [<img align="left" alt="Nakul Randad | Website" width="22px" src="https://github.com/nakulrandad/nakulrandad/blob/master/assets/site.svg" />](https://nakulrandad.github.io/)
+ [<img align="left" alt="Nakul Randad | Website" width="22px" src="https://github.com/nakulrandad/nakulrandad/blob/master/assets/site.svg" />](https://nakulrandad.com/)
 
 </div>
 
