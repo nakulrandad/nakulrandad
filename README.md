@@ -11,7 +11,7 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I’m currently working as a strategist at Goldman Sachs
+- 🤿 I’m a licensed scuba diver and a sailor
 
 - 🎸 I’m into music. I play Guitar, Ukulele...
 
