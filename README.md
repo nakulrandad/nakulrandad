@@ -4,7 +4,7 @@
 
 <div style="text-align: justify"> 
 
-I like quant finance and applied maths. I am pursuing Master of Finance 💵 (Financial Mathematics) at MIT Sloan in Boston. I did my undergrad at the Indian Institute of Technology Bombay 🏛 with a major in Aerospace Engineering 🚀 and a minor in Systems & Control Engineering 🤖.
+I like quant research and trading. I am pursuing Master of Finance 💵 (Financial Mathematics) at MIT in Boston. I did my undergrad at the Indian Institute of Technology Bombay 🏛 with a major in Aerospace Engineering 🚀 and a minor in Systems & Control Engineering 🤖.
 I'm a passionate learner who's always willing to learn and work across multiple domains 💡.
 I love to explore new technologies and leverage them to solve real-life problems ✨.
 </div>
