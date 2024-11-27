@@ -17,7 +17,7 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 - 💬 Ask me anything (I'll definitely have something to say🤓)
 
-- 🥅 2024 Goals: Travel and explore
+- 🥅 2025 Goals: Travel and explore
 
 - ⚡ Fun fact: The odds of getting a royal flush are exactly 1 in 649,740
 
