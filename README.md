@@ -23,16 +23,12 @@ I love to explore new technologies and leverage them to solve real-life problems
 
 - 📫 To know more about me: [Click here!](https://nakulrandad.com/) 
 
-![nakul's github stats](https://github-readme-stats.vercel.app/api?username=nakulrandad&show_icons=true&hide_border=false&count_private=true)
-
 ### To connect with me
 <div>
  
  [<img align="left" alt="Nakul Randad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/nakulrandad/)
 
  [<img align="left" alt="Nakul Randad | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:nakulrandad@gmail.com)
-
- [<img align="left" alt="Nakul Randad | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>](https://facebook.com/nakulrandad)
 
  [<img align="left" alt="Nakul Randad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/nakulrandad)
 
